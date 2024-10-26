@@ -1,0 +1,20 @@
+[
+    {
+      "name": "abcd",
+      "email": "abcd@example.com",
+      "phone": "1234567890",
+      "status": "new"
+    },
+    {
+      "name": "efgh",
+      "email": "efgh@example.com",
+      "phone": "9876543210",
+      "status": "contacted"
+    },
+    {
+      "name": "hijk",
+      "email": "hijk@example.com",
+      "phone": "1122334455",
+      "status": "qualified"
+    }
+  ]
