@@ -21,7 +21,7 @@ EzyMetrics Backend is a Node.js service that integrates with CRM and marketing p
 1. **Clone the Repository**
    ```bash
    git clone <repository-url>
-   cd ezy-metrics-backend
+   cd ezy_metrics--backend
 2. **Install Dependencies
    - npm install
 
